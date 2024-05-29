@@ -15,7 +15,7 @@ int main()
     cout << "Type the value of y2: ";
     cin >> y2;
 
-    distance = sqrt(pow((x1 - x2), 2) + pow((y1 - y2), 2));
+    distance = sqrt(pow((x2 - x1), 2) + pow((y2 - y1), 2));
     
     cout << "The computed distance is " << distance << ".";
     
