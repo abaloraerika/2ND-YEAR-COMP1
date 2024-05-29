@@ -9,9 +9,9 @@ int main()
     cout << "Type the value of x1: ";
     cin >> x1;
     cout << "Type the value of x2: ";
-    cin >> y1;
-    cout << "Type the value of y1: ";
     cin >> x2;
+    cout << "Type the value of y1: ";
+    cin >> y1;
     cout << "Type the value of y2: ";
     cin >> y2;
 
